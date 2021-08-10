@@ -1,0 +1,20 @@
+1. git init -> to intialize git in the project.
+
+2. git status -> to check which files are added and which are not.
+
+3. git add <filename> -> to add in staging area.
+	a. git add . -> to add all files in staging area.
+	
+4. git commit -m "<your message>" -> this command is used to commit your work.
+
+5. git log -> this command is used to see your commit logs.
+
+6. git diff <filename> -> used to check difference between modified and previous version.
+
+7. git checkout <filename> -> used to rollback to the previous version.
+
+8. git restore <filename> -> used to rollback // to discard changes in working directory.
+
+9. git remote add origin <url> -> used to add local repo to github.
+
+10. git push -u origin master -> used to push repo to remote called origin and branch called master. 
