@@ -28,3 +28,7 @@
 14. git checkout <branch-name> -> switch branch to name specified.
 
 15. git checkout -b <branch name> -> creates branch and switches to it.
+
+16. git push -u origin <branch-name> -> used to push repo to remote called origin and branch called <branch-name>
+
+17. git push origin -u -> pushes branch  to origin.
