@@ -20,3 +20,11 @@
 10. git push -u origin master -> used to push repo to remote called origin and branch called master. 
 
 11. git rm --cached -r . -> used to undo all files in staging area.
+
+12. git branch <branch-name> -> creates branch 
+
+13. git branch -> shows list of available branch in git.
+
+14. git checkout <branch-name> -> switch branch to name specified.
+
+15. git checkout -b <branch name> -> creates branch and switches to it.
