@@ -32,3 +32,7 @@
 16. git push -u origin <branch-name> -> used to push repo to remote called origin and branch called <branch-name>
 
 17. git push origin -u -> pushes branch  to origin.
+
+19. git checkout <commit hash/commit ref> -> used to move head around the commits.
+
+18. git branch -f main HEAD~<num> -> moves (by force) the main branch to number of parents behind HEAD
