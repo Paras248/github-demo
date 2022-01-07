@@ -35,4 +35,6 @@
 
 19. git checkout <commit hash/commit ref> -> used to move head around the commits.
 
-18. git branch -f main HEAD~<num> -> moves (by force) the main branch to number of parents behind HEAD
+18. git branch -f main HEAD~<num> -> moves (by force) the main branch to number of parents behind HEAD.
+
+19. git cherry-pick <Commit1> <Commit2> <...> ->  adds/merges those selected commits under your head.
